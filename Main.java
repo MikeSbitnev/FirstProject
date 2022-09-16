@@ -121,9 +121,11 @@ class Ball extends SolidOfRevolution {
 	  }
 	  }
 	  
-	  
-	
-
+	  /* Switch(radius) {
+	     case 0: MATH.PI * radius * radius * height;
+	     case 1: 2 * MATH.PI * radius * height;
+	     default: return radius;
+      */
 
 
 
