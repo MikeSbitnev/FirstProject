@@ -121,15 +121,11 @@ class Ball extends SolidOfRevolution {
 	  }
 	  }
 	  
-	  /* Switch(radius) {
-	     case 0: MATH.PI * radius * radius * height;
-	     case 1: 2 * MATH.PI * radius * height;
-	     default: return radius;
-      */
-
-
-
-
+	  /* 
+	   * int[] array = new int[10];
+ 	   * for(int i = 0; i < array.length; i++) {
+	   * System.out.println("Array[i] " + i);
+	   */
 
 
 
